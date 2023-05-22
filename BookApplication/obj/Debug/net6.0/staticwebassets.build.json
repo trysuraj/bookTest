@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RIgr3qL1qV7HtBziZZJmoVdCaHwU2knL5DJJAr8O+KA=",
+  "Source": "BookApplication.Api",
+  "BasePath": "_content/BookApplication.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

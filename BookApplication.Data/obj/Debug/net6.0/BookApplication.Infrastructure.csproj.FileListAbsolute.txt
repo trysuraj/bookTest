@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\BookApplication\BookApplication.Data\obj\Debug\net6.0\BookApplication.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\BookApplication\BookApplication.Data\obj\Debug\net6.0\BookApplication.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\BookApplication\BookApplication.Data\obj\Debug\net6.0\BookApplication.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\BookApplication\BookApplication.Data\obj\Debug\net6.0\BookApplication.Infrastructure.AssemblyInfo.cs
+C:\Users\USER\source\repos\BookApplication\BookApplication.Data\obj\Debug\net6.0\BookApplication.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\BookApplication\BookApplication.Data\bin\Debug\net6.0\BookApplication.Infrastructure.deps.json
+C:\Users\USER\source\repos\BookApplication\BookApplication.Data\bin\Debug\net6.0\BookApplication.Infrastructure.runtimeconfig.json
+C:\Users\USER\source\repos\BookApplication\BookApplication.Data\bin\Debug\net6.0\BookApplication.Infrastructure.dll
+C:\Users\USER\source\repos\BookApplication\BookApplication.Data\bin\Debug\net6.0\BookApplication.Infrastructure.pdb
+C:\Users\USER\source\repos\BookApplication\BookApplication.Data\bin\Debug\net6.0\BookApplication.Core.dll
+C:\Users\USER\source\repos\BookApplication\BookApplication.Data\bin\Debug\net6.0\BookApplication.Core.pdb
+C:\Users\USER\source\repos\BookApplication\BookApplication.Data\obj\Debug\net6.0\BookApplication.Infrastructure.csproj.CopyComplete
+C:\Users\USER\source\repos\BookApplication\BookApplication.Data\obj\Debug\net6.0\BookApplication.Infrastructure.dll
+C:\Users\USER\source\repos\BookApplication\BookApplication.Data\obj\Debug\net6.0\refint\BookApplication.Infrastructure.dll
+C:\Users\USER\source\repos\BookApplication\BookApplication.Data\obj\Debug\net6.0\BookApplication.Infrastructure.pdb
+C:\Users\USER\source\repos\BookApplication\BookApplication.Data\obj\Debug\net6.0\BookApplication.Infrastructure.genruntimeconfig.cache
+C:\Users\USER\source\repos\BookApplication\BookApplication.Data\obj\Debug\net6.0\ref\BookApplication.Infrastructure.dll
