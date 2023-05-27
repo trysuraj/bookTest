@@ -73,3 +73,4 @@ C:\Users\USER\source\repos\BookApplication\BookApplication\obj\Debug\net6.0\refi
 C:\Users\USER\source\repos\BookApplication\BookApplication\obj\Debug\net6.0\BookApplication.Api.pdb
 C:\Users\USER\source\repos\BookApplication\BookApplication\obj\Debug\net6.0\BookApplication.Api.genruntimeconfig.cache
 C:\Users\USER\source\repos\BookApplication\BookApplication\obj\Debug\net6.0\ref\BookApplication.Api.dll
+C:\Users\USER\source\repos\BookApplication\BookApplication\bin\Debug\net6.0\System.Web.Cors.dll
